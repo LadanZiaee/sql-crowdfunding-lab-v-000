@@ -1,1 +1,0 @@
-crowdfunder.sql < data.sql
