@@ -1,1 +1,1 @@
-< data.sql
+crowdfunding.sql < data.sql
